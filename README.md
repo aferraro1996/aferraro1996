@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aferraro1996
+- 👋 Hi, I’m Anthony Ferraro
 - 👀 I’m interested in video games, *decaf* coffee, music, & programming.
 - 🌱 I’m currently learning language syntax, web development, & security.
 - 📫 How to reach me ...
